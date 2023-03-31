@@ -1,7 +1,6 @@
 <h2> Hi, nice to meet you! I'm Oksana :sun_with_face: </h2>
 
 <img align='right' src="https://media.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" width="270">  
-<br />
 
 <div>
   <a href="https://www.linkedin.com/in/oksana-shchelkina-4627a5234/" target="_blank" rel="nofollow"><img align="left" alt="Linkdein" width="30px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" /></a>
