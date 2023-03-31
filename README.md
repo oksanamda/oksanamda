@@ -16,7 +16,7 @@ I also successfully mentor interns, teaching them Ruby and Ruby On Rails to beco
 
 I like implementing new features from the scratch and solving difficult tasks :)
 
-<h2> :computer: Work Expirience </h2>
+<h2> :computer: Work Experience </h2>
 <ul>
   <li>
     Ruby On Rails Backend Developer at Alle.travel, <b>since Aug 2021</b>
