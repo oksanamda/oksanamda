@@ -30,7 +30,7 @@ I like implementing new features from the scratch and solving difficult tasks :)
   </li>
   <li>Intern Data Scientist at Saint Petersburg State University, <b>2020-2021</b></li>
     <ul>
-      <li> Python (NumPu, Pandas, TensorFlow, Scikit-Learn) </li>
+      <li> Python (NumPy, Pandas, TensorFlow, Scikit-Learn) </li>
       <li> Artificial Neural Networks (Transformer, CNN, Encoder-Decoder) </li>
       <li> Machine Learning </li>
     </ul>
