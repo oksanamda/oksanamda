@@ -30,7 +30,7 @@ I like implementing new features from the scratch and solving difficult tasks :)
   </li>
   <li>Intern Data Scientist at Saint Petersburg State University, <b>2020-2021</b></li>
     <ul>
-      <li> Python (NumPy, Pandas, TensorFlow, Scikit-Learn) </li>
+      <li> Python (SKlearn, NumPy, Pandas, TensorFlow, Scikit-Learn) </li>
       <li> Artificial Neural Networks (Transformer, CNN, Encoder-Decoder) </li>
       <li> Machine Learning </li>
     </ul>
@@ -39,9 +39,9 @@ I like implementing new features from the scratch and solving difficult tasks :)
 
 <h2> :books: Education </h2>
 
-Bachelor's Degree in Computer Science, Saint Petersburg State University (Fundamental Informatics and Information Technologies), 2017 - 2021
+Master's Degree in Machine Learning and Speech Technologies, ITMO University, 2023 - now
 
-<b>GPA: 4.7/5.0</b>
+Bachelor's Degree in Computer Science, Saint Petersburg State University (Fundamental Informatics and Information Technologies), 2017 - 2021. <b>GPA: 4.7/5.0</b>
 
 <h2> :hammer: Hard skills </h2>
 <h3> :speech_balloon: Languages</h3>
